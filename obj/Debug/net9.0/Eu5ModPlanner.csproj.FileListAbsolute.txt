@@ -1,0 +1,203 @@
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\NuGet.Config
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\appsettings.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\Eu5ModPlanner.staticwebassets.runtime.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\Eu5ModPlanner.staticwebassets.endpoints.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\Eu5ModPlanner.exe
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\Eu5ModPlanner.deps.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\Eu5ModPlanner.runtimeconfig.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\Eu5ModPlanner.dll
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\Eu5ModPlanner.pdb
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.csproj.AssemblyReference.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.AssemblyInfoInputs.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.AssemblyInfo.cs
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.RazorAssemblyInfo.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.RazorAssemblyInfo.cs
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\scopedcss\bundle\Eu5ModPlanner.styles.css
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\scopedcss\projectbundle\Eu5ModPlanner.bundle.scp.css
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\2hy6ejqyh4-61n19gt1b8.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\qiqm4mk963-bqjiyaj88i.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\e6gvy5twsx-c2jlpeoesf.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\43wxlqom9j-erw9l3u2r3.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\quwpbtbbgo-aexeepp0ev.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\4v7qyzok3a-d7shbmvgxk.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\mcq5cjovgd-ausgxo2sd3.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\fqdbzrctl2-k8d9w2qqmf.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\9rqe0s45qq-cosvhxvwiu.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\2j3jip5rze-ub07r2b239.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\yoljzpihvr-fvhpjtyr6v.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\59mbleoozi-b7pk76d08c.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\khnr4ip4mg-fsbi9cje9m.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\dr0evad01m-rzd6atqjts.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\je2z1d072f-ee0r1s7dh0.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\axo08d3dbu-dxx9fxp4il.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\zir3du4n0t-jd9uben2k1.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\50pebiz7nz-khv3u5hwcm.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\gd2w8umbft-r4e9w2rdcm.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\xjr4v6p8z4-lcd1t2u6c8.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\pgmvydvhhd-c2oey78nd0.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\969mzjrt4f-tdbxkamptv.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\ytfq29dbth-j5mq2jizvt.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\udcn15p600-06098lyss8.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\19ochd8t04-nvvlpmu67g.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\nlowtvqctk-s35ty4nyc5.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\dxf8u0rw3u-pj5nd1wqec.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\c7d7473fix-46ein0sx1k.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\4bf2icx3c7-v0zj4ognzu.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\ioac556y5p-37tfw0ft22.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\qjqnen9hhc-hrwsygsryq.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\jt2ibus46j-pk9g2wxc8p.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\56dvvwfvqw-ft3s53vfgj.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\z98s4pj86a-6cfz1n2cew.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\bmj44zwkua-6pdc2jztkx.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\w5jlk7ywyh-493y06b0oq.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\dgz9j6f8m4-iovd86k7lj.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\pcpic37vrd-vr1egmr9el.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\zkjc1yhn4z-kbrnm935zg.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\ssch1g8raz-jj8uyg4cgr.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\pfhmlfnm8h-y7v9cxd14o.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\sb93sd8uoi-notf2xhcfb.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\5vtcf8bjc2-h1s4sie4z3.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\gvh052eydn-63fj8s7r0e.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\3ig67r4nu7-0j3bgjxly4.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\0reltf814f-47otxtyo56.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\dsmu67l0jj-4v8eqarkd7.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\63rpu12dcj-356vix0kms.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\b682f0gttw-83jwlth58m.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\036rxsk3b2-mrlpezrjn3.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\qfcnrbplkm-lzl9nlhx6b.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\5zsqtcmfp7-ag7o75518u.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\aof5py0cfm-x0q3zqp4vz.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\o4iwlw98xm-0i3buxo5is.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\62cmkpotk1-o1o13a6vjx.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\kprf7q8n9n-ttgo8qnofa.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\ojr7n3m9r6-2z0ns9nrw6.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\ujz9v9pg29-muycvpuwrr.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\1wrilzonh0-87fc7y1x7t.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\m36u6i7a35-mlv21k5csn.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\oqucd2tzdw-0azwam7btc.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\6e348al00v-0azwam7btc.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\staticwebassets\msbuild.Eu5ModPlanner.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\staticwebassets\msbuild.Eu5ModPlanner.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\staticwebassets\msbuild.build.Eu5ModPlanner.props
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Eu5ModPlanner.props
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Eu5ModPlanner.props
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPl.C04BBA9B.Up2Date
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.dll
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\refint\Eu5ModPlanner.dll
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.pdb
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\Eu5ModPlanner.genruntimeconfig.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\ref\Eu5ModPlanner.dll
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\331acqsxpc-pjy8j41w1q.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\obj\Debug\net9.0\compressed\t29ll8lwpe-33zceoz0ib.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\NuGet.Config
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\appsettings.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\Eu5ModPlanner.staticwebassets.runtime.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\Eu5ModPlanner.staticwebassets.endpoints.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\Eu5ModPlanner.exe
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\Eu5ModPlanner.deps.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\Eu5ModPlanner.runtimeconfig.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\Eu5ModPlanner.dll
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\Eu5ModPlanner.pdb
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.csproj.AssemblyReference.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.AssemblyInfoInputs.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.AssemblyInfo.cs
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.RazorAssemblyInfo.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.RazorAssemblyInfo.cs
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.sourcelink.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\scopedcss\bundle\Eu5ModPlanner.styles.css
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\scopedcss\projectbundle\Eu5ModPlanner.bundle.scp.css
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\331acqsxpc-pjy8j41w1q.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\2hy6ejqyh4-61n19gt1b8.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\t29ll8lwpe-33zceoz0ib.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\qiqm4mk963-bqjiyaj88i.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\e6gvy5twsx-c2jlpeoesf.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\43wxlqom9j-erw9l3u2r3.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\quwpbtbbgo-aexeepp0ev.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\4v7qyzok3a-d7shbmvgxk.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\mcq5cjovgd-ausgxo2sd3.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\fqdbzrctl2-k8d9w2qqmf.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\9rqe0s45qq-cosvhxvwiu.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\2j3jip5rze-ub07r2b239.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\yoljzpihvr-fvhpjtyr6v.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\59mbleoozi-b7pk76d08c.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\khnr4ip4mg-fsbi9cje9m.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\dr0evad01m-rzd6atqjts.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\je2z1d072f-ee0r1s7dh0.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\axo08d3dbu-dxx9fxp4il.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\zir3du4n0t-jd9uben2k1.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\50pebiz7nz-khv3u5hwcm.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\gd2w8umbft-r4e9w2rdcm.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\xjr4v6p8z4-lcd1t2u6c8.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\pgmvydvhhd-c2oey78nd0.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\969mzjrt4f-tdbxkamptv.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\ytfq29dbth-j5mq2jizvt.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\udcn15p600-06098lyss8.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\19ochd8t04-nvvlpmu67g.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\nlowtvqctk-s35ty4nyc5.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\dxf8u0rw3u-pj5nd1wqec.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\c7d7473fix-46ein0sx1k.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\4bf2icx3c7-v0zj4ognzu.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\ioac556y5p-37tfw0ft22.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\qjqnen9hhc-hrwsygsryq.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\jt2ibus46j-pk9g2wxc8p.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\56dvvwfvqw-ft3s53vfgj.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\z98s4pj86a-6cfz1n2cew.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\bmj44zwkua-6pdc2jztkx.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\w5jlk7ywyh-493y06b0oq.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\dgz9j6f8m4-iovd86k7lj.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\pcpic37vrd-vr1egmr9el.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\zkjc1yhn4z-kbrnm935zg.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\ssch1g8raz-jj8uyg4cgr.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\pfhmlfnm8h-y7v9cxd14o.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\sb93sd8uoi-notf2xhcfb.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\5vtcf8bjc2-h1s4sie4z3.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\gvh052eydn-63fj8s7r0e.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\3ig67r4nu7-0j3bgjxly4.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\0reltf814f-47otxtyo56.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\dsmu67l0jj-4v8eqarkd7.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\63rpu12dcj-356vix0kms.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\b682f0gttw-83jwlth58m.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\036rxsk3b2-mrlpezrjn3.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\qfcnrbplkm-lzl9nlhx6b.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\5zsqtcmfp7-ag7o75518u.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\aof5py0cfm-x0q3zqp4vz.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\o4iwlw98xm-0i3buxo5is.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\62cmkpotk1-o1o13a6vjx.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\kprf7q8n9n-ttgo8qnofa.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\ojr7n3m9r6-2z0ns9nrw6.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\ujz9v9pg29-muycvpuwrr.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\1wrilzonh0-87fc7y1x7t.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\m36u6i7a35-mlv21k5csn.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\oqucd2tzdw-0azwam7btc.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\compressed\6e348al00v-0azwam7btc.gz
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\staticwebassets\msbuild.Eu5ModPlanner.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\staticwebassets\msbuild.Eu5ModPlanner.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\staticwebassets\msbuild.build.Eu5ModPlanner.props
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Eu5ModPlanner.props
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Eu5ModPlanner.props
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPl.C04BBA9B.Up2Date
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.dll
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\refint\Eu5ModPlanner.dll
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.pdb
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\Eu5ModPlanner.genruntimeconfig.cache
+C:\Users\Patryczku\Documents\New project\Eu5ModPlanner\EU5 Mod Planner\obj\Debug\net9.0\ref\Eu5ModPlanner.dll
